@@ -1,4 +1,4 @@
-# diabetis-prediction-model
+# diabetes-prediction-model
 Diabetes Prediction with Machine Learning Models
 
 Overview
